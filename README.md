@@ -12,4 +12,4 @@
 
 # implementation
 
-遵循[`BIP-32`](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), [`BIP-43`](https://github.com/bitcoin/bips/blob/master/bip-0043.mediawiki), [`BIP-44`](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)提案，实现一款可以支持多种数字货币，用户友好的分层确定性钱包。
+遵循[`BIP-32`](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), [`BIP-43`](https://github.com/bitcoin/bips/blob/master/bip-0043.mediawiki), [`BIP-44`](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) 提案，实现一款可以支持多种数字货币，用户友好的分层确定性钱包。
